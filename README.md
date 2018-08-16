@@ -1,0 +1,1 @@
+# Grove-1_Wire_Themocouple_Amplifier-MAX31850K
